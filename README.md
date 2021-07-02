@@ -1,5 +1,5 @@
 <h1 align = "center">Hello, I'm Renuka Maradagi 👋</h1>
-<h3 align = "center">FULL STACK DEVELPOMENT INTERSHIP EDUREKA</h3>
+<h3 align = "center">FULL STACK DEVELPOMENT INTERNSHIP EDUREKA</h3>
 
 <a href="https://linkedin.com/in/mufaddalshakir">
   <img align="left" alt="Renuka Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
