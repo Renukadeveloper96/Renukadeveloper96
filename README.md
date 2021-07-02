@@ -1,4 +1,22 @@
-### Hi Developers 👋
+<h1 align = "center">Hello, I'm Renuka Maradagi 👋</h1>
+<h3 align = "center">FULL STACK DEVELPOMENT INTERSHIP EDUREKA</h3>
+
+<a href="https://linkedin.com/in/mufaddalshakir">
+  <img align="left" alt="Renuka Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Renukadeveloper96">
+  <img align="left" alt="Renuka Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/renumaradagi/">
+  <img align="left" alt="Renuka Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCpmYJCw8qjtZi-S7zs7Z-Pw/">
+  <img align="left" alt="Renuka Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
+<br/>
+<br/>
+
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Renuka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/renuka-maradagi-a06934212/)
