@@ -7,7 +7,7 @@
 <a href="https://github.com/Renukadeveloper96">
   <img align="left" alt="Renuka Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com//">
+<a href="https://instagra.com//">
   <img align="left" alt="Renuka Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCpmYJCw8qjtZi-S7zs7Z-Pw/">
