@@ -1,5 +1,5 @@
 <h1 align = "center">Hello, I'm Renuka Maradagi 👋</h1>
-<h3 align = "center">Software programmer in nirmaan organization </h3>
+<h3 align = "center">Software programmer in Tagit India Pvt Ltd </h3>
 
 <a href="https://linkedin.com/in/(https://www.linkedin.com/in/renuka-maradagi-a06934212/)">
   <img align="left" alt="Renuka Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
